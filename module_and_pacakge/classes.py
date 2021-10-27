@@ -79,7 +79,7 @@ naboo = Planet("Naboo", 300000, 8, "Naboo System")  # new instance of this class
 # print(f"Radius is:{naboo.radius}")
 # print(f"The gravity is: {naboo.gravity}")
 
-# print(Planet.shape)
+print(Planet.shape)
 # print(naboo.shape)
 # print(Planet.common())
 # print(naboo.common())
